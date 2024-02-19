@@ -10,7 +10,10 @@ TODO
 
 # Hardware
 
-TODO
+## Xilinx
+
+Spartan 7
+* [Spartan Edge Accelerator Board (Seeed Studio)](https://wiki.seeedstudio.com/Spartan-Edge-Accelerator-Board).
 
 # Examples
 
@@ -18,4 +21,4 @@ TODO
 
 # References
 
-TODO
+* Apache NuttX RTOS: [website](https://nuttx.apache.org) / [github](https://github.com/apache/nuttx).
