@@ -18,7 +18,7 @@ For other devices, particularly Lattice ECP5: [OSS CAD Suite](https://github.com
 
 ## AMD Xilinx
 
-* Zynq 7010: $10 [EBAZ4205](https://es.aliexpress.com/item/1005006310124981.html)
+* Zynq 7010: $16 [EBAZ4205](https://es.aliexpress.com/item/1005004530722687.html)
 * Spartan 7: $39.50 [Spartan Edge Accelerator Board (Seeed Studio)](https://wiki.seeedstudio.com/Spartan-Edge-Accelerator-Board).
 * Spartan 6: $35.17 [QMTech Spartan-6](https://www.satistronics.com/shop/181172-xilinx-fpga-spartan6-spartan-6-core-board-xc6slx16-ddr3-256mb-5522)
 
