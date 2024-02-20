@@ -25,7 +25,7 @@ For other devices, particularly Lattice ECP5: [OSS CAD Suite](https://github.com
 
 # Examples
 
-Using Colorligth boards: https://tomverbeure.github.io/2021/01/22/The-Colorlight-i5-as-FPGA-development-board.html
+Using Colorlight boards: https://tomverbeure.github.io/2021/01/22/The-Colorlight-i5-as-FPGA-development-board.html
 
 # References
 
