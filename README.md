@@ -15,6 +15,7 @@ For other devices, particularly Lattice ECP5: [OSS CAD Suite](https://github.com
 
 
 * EPC5: $11.50. Includes SDRAM & Ethernet. [Colorlight N6](https://www.ledcontrollercard.com/english/colorlight-n6-led-mini-receiving-card.html)
+* ECP5: $18.27 [Colorlight 5A-7B](https://es.aliexpress.com/item/1005003580229862.html), see [here](https://tomverbeure.github.io/2021/01/22/The-Colorlight-i5-as-FPGA-development-board.html) for usage
 
 ## AMD Xilinx
 
@@ -24,7 +25,7 @@ For other devices, particularly Lattice ECP5: [OSS CAD Suite](https://github.com
 
 # Examples
 
-TODO
+Using Colorligth boards: https://tomverbeure.github.io/2021/01/22/The-Colorlight-i5-as-FPGA-development-board.html
 
 # References
 
